@@ -12,7 +12,7 @@
 		599DDDCE1978720500640790 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 599DDDCC1978720500640790 /* Main.storyboard */; };
 		599DDDD01978720500640790 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 599DDDCF1978720500640790 /* Images.xcassets */; };
 		599DDDDC1978720500640790 /* OptionalBugTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599DDDDB1978720500640790 /* OptionalBugTests.swift */; };
-		599DDDEA1978739B00640790 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599DDDE91978739B00640790 /* User.swift */; };
+		D9B62ADC197BFF0A003353C9 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599DDDE91978739B00640790 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +37,7 @@
 		599DDDDB1978720500640790 /* OptionalBugTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionalBugTests.swift; sourceTree = "<group>"; };
 		599DDDE71978737A00640790 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		599DDDE91978739B00640790 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		D9B62ADA197BFF04003353C9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 				599DDDCA1978720500640790 /* ViewController.swift */,
 				599DDDCC1978720500640790 /* Main.storyboard */,
 				599DDDE91978739B00640790 /* User.swift */,
+				D9B62ADA197BFF04003353C9 /* README.md */,
 				599DDDCF1978720500640790 /* Images.xcassets */,
 				599DDDC61978720500640790 /* Supporting Files */,
 			);
@@ -213,9 +215,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9B62ADC197BFF0A003353C9 /* User.swift in Sources */,
 				599DDDCB1978720500640790 /* ViewController.swift in Sources */,
 				599DDDC91978720500640790 /* AppDelegate.swift in Sources */,
-				599DDDEA1978739B00640790 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
