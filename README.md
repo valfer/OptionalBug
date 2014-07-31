@@ -1,7 +1,7 @@
 OptionalBug
 ===========
 
-Project to demonstrate (possible) bug of Swift beta 3
+Project to demonstrate (possible) bug of Swift beta 4
 
 I have a class so defined:
 
